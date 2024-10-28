@@ -31,7 +31,7 @@ with open('templates/index.html', 'r', encoding='utf-8') as file:
 html_with_data = html_template.replace('// INSERT_DATA_HERE', js_data)
 
 # Write the result to a new HTML file
-output_path = r'C:\Users\ykks\Desktop\zuoye\spark\Demo1\homeless_data_visualization.html'
+output_path = r'C:\Users\ykks\Desktop\zuoye\spark\project\ds-ciss-predictive-homlessness\Demo1\homeless_data_visualization.html'
 with open(output_path, 'w', encoding='utf-8') as file:
     file.write(html_with_data)
 
