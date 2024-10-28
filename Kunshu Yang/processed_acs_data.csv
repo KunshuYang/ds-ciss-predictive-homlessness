@@ -1,0 +1,4 @@
+geo_id,year,total_population,median_rent_2br,median_household_income,rental_vacancy_rate,total_housing_units,percent_cost_burdened
+1400000US01001020100,2022,1431,674,60563,1.77,1865,2.73
+1400000US01001020200,2022,1685,868,57460,8.11,1677,2.03
+1400000US01001020300,2022,2799,719,55345,1.94,3507,3.79
